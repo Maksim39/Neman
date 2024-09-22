@@ -2,7 +2,7 @@
 <package format="2">
   <name>neman</name>
   <version>0.0.0</version>
-  <description>neman delivery robot</description>
+  <description>Neman delivery robot package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
